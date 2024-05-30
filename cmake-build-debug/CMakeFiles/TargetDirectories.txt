@@ -1,0 +1,3 @@
+/Users/zfnick/Downloads/Simple Cinema Booking System (C++)/cmake-build-debug/CMakeFiles/Cinema_Booking_System.dir
+/Users/zfnick/Downloads/Simple Cinema Booking System (C++)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zfnick/Downloads/Simple Cinema Booking System (C++)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
